@@ -1,10 +1,7 @@
 ### Hi there, welcome to my GitHub perfil !! 👋
 # I'm Marcos Augusto 😊
-To make your ambitions come true you need to take risks 🤞
-📖 I’m currently learning Graphic Design, Web Design and Systems Analysis and Development
-🦴 I've associate's degree in Radiology Technician
-😄 Pronouns: all of them
-❤️ I'm passionate about creating prototypes and layouts for websites and mobile applications, let's made them togheter?
+
+
 
 ### Most used languages and softwares:
 <div style="display: inline-block">
