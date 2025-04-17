@@ -9,6 +9,7 @@
   <img allign="center" alt="HS-CSS" height = "30" widht = "40" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img allign="center" alt="HS-JS" height = "30" widht = "40" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img allign="center" alt="HS-FIGMA" height = "30" widht = "40" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img allign="center" alt="JAVA" height = "30" widht = "40" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 ### Contats:
